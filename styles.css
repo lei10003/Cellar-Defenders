@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #444;
+}
+
+h1 {
+    text-align: center;
+}
+
+.infographic {
+    text-align: center;
+    padding: 20px;
+    background: #f4f4f4;
+    margin: 20px 0;
+}
