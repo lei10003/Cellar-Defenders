@@ -47,3 +47,7 @@ figcaption {
     max-width: 200px;
     height: auto;
 }
+.chart-section {
+    padding: 100px;
+    text-align: center;
+}
