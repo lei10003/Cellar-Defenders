@@ -24,3 +24,26 @@ h1 {
     background: #f4f4f4;
     margin: 20px 0;
 }
+
+.labels-images {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.wine-label {
+    margin: 0 10px;
+    max-width: 180px;
+    height: auto;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 0.8em;
+    color: #555;
+}
+.wine-15{
+    margin: 0 10px;
+    max-width: 200px;
+    height: auto;
+}
