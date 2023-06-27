@@ -4,6 +4,13 @@
     display: block;
 }
 
+.author {
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
